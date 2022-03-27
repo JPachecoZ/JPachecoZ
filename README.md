@@ -25,4 +25,4 @@ I like eating good food and enjoy spending time with people!
 
 ### GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=devedux&theme=github_dark&show_icons=true&hide=issues,stars" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=jpachecoz&theme=github_dark&show_icons=true&hide=issues,stars" /> 
